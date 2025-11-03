@@ -1,11 +1,41 @@
-# Todo-List-for-beginners
-"A final version of a Todo List web application. The HTML file provides the structure including input fields for todo items and dates, an Add button to add tasks, and a display area for the todo list. It links to corresponding CSS and JavaScript files for styling and functionality."
+# 📝 Todo List for Beginners
 
-The HTML file is a simple Todo List application interface. It includes a container with a heading, input fields for the todo name and date, and an "Add" button that triggers a JavaScript function "todoList2()". The results are displayed in a div with class "result todo-grid". The page links to a CSS file for styling and a JS file for functionality. This is a final version of a Todo List project.
-
-JavaScript file implementing the core functionality of the Todo List app. It manages an array of todo items, adds new tasks with due dates from user input, displays the list with serial numbers, and allows deletion of tasks."
-
-The JavaScript file implements the functionality for the Todo List app. It maintains an array of todo items with name and due date. The todoList2() function adds new todo items from input fields to the array and clears the input. The show() function renders the todo list items with serial number, name, due date, and a delete button that removes the item from the array. This file provides the core interactive behavior for the Todo List app.
+A beginner-friendly **To-Do List web app** built using **HTML, CSS, and JavaScript**.  
+This project helps new learners understand the basics of **DOM manipulation**, **event handling**, and **browser local storage**.  
+Simple, lightweight, and perfect as your first JavaScript project!
 
 
-*you can modify by own*
+## Project Overview
+
+The To-Do List app allows users to:
+- Add new tasks 🆕  
+- Delete tasks 🗑️  
+
+This project is designed to help beginners get hands-on experience with **JavaScript fundamentals** and front-end logic.
+
+---
+
+## 🧠 Features
+
+✅ Add and remove tasks easily  
+✅ Responsive and clean user interface  
+✅ Beginner-friendly and easy-to-understand code  
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Structure of the web page |
+| **CSS3** | Styling and layout |
+| **JavaScript (Vanilla)** | Logic, DOM manipulation, and storage |
+
+---
+
+## ⚙️ How to Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Guptadeepak1915/Todo-List.git
+
